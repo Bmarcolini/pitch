@@ -1,6 +1,3 @@
-# pitch
-Publication Pitch
-
 <html>
 <body>
 
